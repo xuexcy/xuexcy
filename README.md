@@ -1,4 +1,4 @@
-[xuexcy.github.io](https://xuexcy.github.io/about)
+[**xuexcy.github.io**](https://xuexcy.github.io/about)
 
 
 [![](https://raw.githubusercontent.com/xuexcy/xuexcy/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
